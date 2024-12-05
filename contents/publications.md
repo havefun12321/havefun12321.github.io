@@ -1,12 +1,47 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>In Revision.</strong> [[Code]](https://github.com/senli1073/LNRL)
+- <strong>Xiang Xiang*</strong>,  Qinhao  Zhou,  Yuwen  Tan,  Boqing  Gong,  Xilin  Chen:  Semantically-Shifted  
+Incremental Adapter-Tuning is An Eﬀective Continual Learner. <strong>IEEE Trans. PAMI</strong>, 2024.  
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- Zhiwen Shao, Hancheng Zhu*, Yong Zhou*, <strong>Xiang Xiang*</strong>, Bing Liu, Rui Yao, Lizhuang Ma: Facial  
+Action Unit Detection by Adaptively Constraining Self-Attention and Causally Deconfounding Sample. <strong>IJCV</strong>, 2024.  
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- <strong>Xiang Xiang*</strong>, Zihan Zhang, Xilin Chen: Curriculum-Balanced Long-Tailed Learning. <strong>Neurocomputing</strong>, 2024.  
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+-  Zihan  Zhang,  Zhuo  Xu,  <strong>Xiang Xiang*</strong>:  Vision-Language  Dual-Pattern  Matching  for  Out-of- 
+Distribution Detection. In <strong>ECCV</strong>, 2024.  
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- Jing Ma, <strong>Xiang Xiang*</strong>, Ke Wang, Yuchuang Wu, Yongbin Li: Aligning Logits Generatively for  
+Principled Black-Box Knowledge Distillation. In <strong>CVPR</strong>, 2024.  
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- Yuwen Tan, Qinhao Zhou, <strong>Xiang Xiang*</strong>,  Ke Wang, Yuchuang Wu, Yongbin Li: Semantically- 
+Shifted Incremental Adapter-Tuning is A Continual ViTransformer. In <strong>CVPR</strong>, 2024.   
+
+-  Qinhao  Zhou,  Zihan  Zhang,  <strong>Xiang Xiang*</strong>,  Ke  Wang,  Yuchuan  Wu,  Yongbin  Li:  Enhancing  the  
+General Agent Capabilities of Low-Parameter LLMs through Tuning and Multi-Branch Reasoning. In <strong>NAACL</strong>, 2024.  
+
+- Shouwen Wang, Qian Wan, <strong>Xiang Xiang*</strong>, Zhigang Zeng: Saliency Regularization of Self-Training  
+with Partial Annotations. In <strong>ICCV</strong>, 2023.  
+
+- Zihan Zhang, <strong>Xiang Xiang*</strong>. Decoupling MaxLogit for Out-of-Distribution Detection. In <strong>CVPR</strong>, 2023.  
+
+-  Yuwen  Tan,  <strong>Xiang Xiang*</strong>,  Yifeng  Cheng,  Hongyi  Jing,  Shiyang  Ye,  Chaoran  Xue,  Hui  Xu:  
+Coupling Bracket Segmentation and Tooth Surface Reconstruction on 3D Dental Models. In <strong>MICCAI</strong>, 2023.  
+
+-  <strong>Xiang Xiang*</strong>,  Yuwen  Tan,  Qian  Wan,  Jing  Ma,  Alan  Yuille,  Gregory  Hager:  Coarse-To-Fine  
+Incremental Few-Shot Learning. In <strong>ECCV</strong>, 2022.  
+
+- Youming Deng, Yansheng Li, Yongjun Zhang, <strong>Xiang Xiang</strong>, Jian Wang, Jingdong Chen, Jiayi Ma  
+Hierarchical Memory Learning for Fine-Grained Scene Graph Generation. In <strong>ECCV</strong>, 2022.  
+
+- <strong>Xiang Xiang*</strong>, Zhiyuan Wang, Shanshan Lao, Baochang Zhang*. Pruning  Multi-View Stereo  
+Net for Eﬃcient 3D Reconstruction. <strong>ISPRS Journal of Photogrammetry and Remote Sensing</strong>, 2020.  
+
+- <strong>Xiang Xiang*</strong>, Trac Tran: Linear Disentangled Representation Learning for Facial Actions. <strong>IEEE  
+Trans. Circuits Syst. Video Technology</strong>, 28(12): 3539-3544, 2018.  
+
+-  Feng Wang*, <strong>Xiang Xiang*</strong>, Jian Cheng, Alan Yuille: NormFace: L2 Hypersphere Embedding  
+for Face VeriﬁcaHon. In <strong>ACM MulAmedia</strong>, 2017. (~1,000 citations)  
+
+
+
+
 
