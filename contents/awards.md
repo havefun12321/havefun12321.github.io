@@ -6,7 +6,7 @@
 
 - AI 2000 提名奖(Honorable Mention)（1/1），2023 & 2024
 
-- 2024 ⼤学⽣嵌⼊式设计竞赛，国家⼀等奖第 1 名（⼴和通智联杯），指导⽼师
+- 2024 ⼤学⽣嵌入式设计竞赛，国家⼀等奖第 1 名（⼴和通智联杯），指导⽼师
 
 - ICPR 2022 T-CAP Workshop 最佳论⽂奖(Best Paper Award) 提名奖(Honorable Mention, 2/2)
 
