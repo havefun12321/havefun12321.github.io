@@ -1,9 +1,15 @@
+Xiang Xiang
 
+Associate Professor in Dept of Intelligence Science & Tech
 
-I'm Xiang Xiang,an Associate Professor in Dept of Intelligence Science &Tech, [Huazhong Univ of Science & Technology](https://www.hust.edu.cn/). Also, the director of [HAIV Lab](https://haivlab.wixsite.com/home).
+[Huazhong Univ of Science & Technology](https://www.hust.edu.cn/)
+
+Director of [HAIV Lab](https://haivlab.wixsite.com/home)
 
 #### Email
-xex@hust.edu.cn, xxiang@cs.jhu.edu
+xex@hust.edu.cn
+
+xxiang@cs.jhu.edu
 
 #### Education
 - 2012/8 - 2018/8 美国约翰·霍普金斯⼤学，计算机科学系，计算机科学，博士
