@@ -36,7 +36,7 @@ Incremental Few-Shot Learning</i>. In <strong>ECCV</strong>, 2022.
 Net for Eﬃcient 3D Reconstruction</i>. <strong>ISPRS Journal of Photogrammetry and Remote Sensing</strong>, 2020.  
 
 - <strong>Xiang Xiang*</strong>, Trac Tran: <i>Linear Disentangled Representation Learning for Facial Actions</i>. <strong>IEEE  
-Trans. Circuits Syst. Video Technology</strong>, 28(12): 3539-3544, 2018.  
+Trans. CSVT</strong>, 28(12): 3539-3544, 2018.  
 
 -  Feng Wang*, <strong>Xiang Xiang*</strong>, Jian Cheng, Alan Yuille: <i>NormFace: L2 Hypersphere Embedding  
 for Face Veriﬁcation</i>. In <strong>ACM MulAmedia</strong>, 2017. (~1,000 citations)  
