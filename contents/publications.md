@@ -1,5 +1,5 @@
-- <strong>Xiang Xiang*</strong>,  Qinhao  Zhou,  Yuwen  Tan,  Boqing  Gong,  Xilin  Chen:  Semantically-Shifted  
-Incremental Adapter-Tuning is An Eﬀective Continual Learner. <strong>IEEE Trans. PAMI</strong>, 2024.  
+- <strong>Xiang Xiang*</strong>,  Qinhao  Zhou,  Yuwen  Tan,  Boqing  Gong,  Xilin  Chen:  <i>Semantically-Shifted  
+Incremental Adapter-Tuning is An Eﬀective Continual Learner</i>. <strong>IEEE Trans. PAMI</strong>, 2024.  
 
 - Zhiwen Shao, Hancheng Zhu*, Yong Zhou*, <strong>Xiang Xiang*</strong>, Bing Liu, Rui Yao, Lizhuang Ma: Facial  
 Action Unit Detection by Adaptively Constraining Self-Attention and Causally Deconfounding Sample. <strong>IJCV</strong>, 2024.  
