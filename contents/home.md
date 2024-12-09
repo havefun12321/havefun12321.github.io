@@ -11,13 +11,13 @@ xex@hust.edu.cn
 xxiang@cs.jhu.edu
 
 #### Education
-- 2012/8 - 2018/8 美国约翰·霍普金斯⼤学，计算机科学系，计算机科学，博士
+- 2012/8 - 2018/8 美国约翰·霍普金斯⼤学，计算机科学系，计算机科学，博士<br>
 PhD in Computer Science, Dept of Computer Science, Johns Hopkins University, USA    
 Advisor: Gregory D. Hager & Trac D. Tran   
-- 2009/8 – 2012/7 中国科学院大学，计算技术研究所，计算机科学与技术，硕士 
+- 2009/8 – 2012/7 中国科学院大学，计算技术研究所，计算机科学与技术，硕士<br>
 MS, Institute of Computing Technology, University of Chinese Academy of Sciences, China    
 导师：陈熙霖 (Advisor: Xilin Chen)    
-- 2005/9 – 2009/7 武汉大学，计算机学院，计算机软件，学士   
+- 2005/9 – 2009/7 武汉大学，计算机学院，计算机软件，学士<br>
 BS, School of Computer Science, Wuhan University, China 
 
 #### Work Experience
