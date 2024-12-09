@@ -1,10 +1,11 @@
 Xiang Xiang
 
-Associate Professor in Dept of Intelligence Science & Tech
+Director of [HAIV Lab](https://haivlab.wixsite.com/home)
+
+Associate Professor in Intelligence Science & Tech
 
 [Huazhong Univ of Science & Technology](https://www.hust.edu.cn/)
 
-Director of [HAIV Lab](https://haivlab.wixsite.com/home)
 
 #### Email
 xex@hust.edu.cn
