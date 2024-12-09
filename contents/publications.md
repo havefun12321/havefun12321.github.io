@@ -39,7 +39,7 @@ Net for Eﬃcient 3D Reconstruction</i>. <strong>ISPRS Journal of Photogrammetry
 Trans. CSVT</strong>, 28(12): 3539-3544, 2018.  
 
 -  Feng Wang*, <strong>Xiang Xiang*</strong>, Jian Cheng, Alan Yuille: <i>NormFace: L2 Hypersphere Embedding  
-for Face Veriﬁcation</i>. In <strong>ACM MulAmedia</strong>, 2017. (~1,000 citations)  
+for Face Veriﬁcation</i>. In <strong>ACM Multimedia</strong>, 2017. (~1,000 citations)  
 
 
 
