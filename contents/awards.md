@@ -16,4 +16,4 @@
 
 -   Associate Editor, Elsevier Journal of Visual Communication and Image Representation
 
--  CSIG 高级会员，遥感图像、视频图像通讯、空天信息感知与决策、成像探测与感知等专委会委员
+-  CSIG 高级会员，视频图像通讯、空天信息感知与决策、成像探测与感知等专委会委员
