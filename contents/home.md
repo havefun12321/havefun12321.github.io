@@ -8,8 +8,6 @@ Associate Professor in Intelligence Science & Tech
 #### Email
 xex@hust.edu.cn
 
-xxiang@cs.jhu.edu
-
 #### Education
 - 2012/8 - 2018/8 美国约翰·霍普金斯⼤学，计算机科学系，计算机科学，博士<br>
 PhD in Computer Science, Dept of Computer Science, Johns Hopkins University, USA    
